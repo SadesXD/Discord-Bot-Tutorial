@@ -17,3 +17,4 @@ Please don't just copy paste the code, but you need to learn how this code will 
 
 - You need to setup your User ID, Bot Prefix, Command Logs in file called `config.json`
 
+- Set Your Bot Token in file called `.env` 
