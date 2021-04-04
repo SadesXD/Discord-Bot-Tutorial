@@ -7,8 +7,7 @@ exports.run = async (client, message, args) => {
     return message.channel.send("Please provide some text will you want to take the middle letter of the text");
   }
   
-  // Now we will create a function
-  
+  // function for getting the middle text of some words
   function getMiddle(character) {
     if(character.length == 2) {
       return character[0];
@@ -21,7 +20,7 @@ exports.run = async (client, message, args) => {
     }
   }
   
-  // Now lets call the function
+  // call the function
   let middle = getMiddle(text);
   
   // Create an embed message
@@ -32,5 +31,4 @@ exports.run = async (client, message, args) => {
   .addField("Middle of the text: ", middle, true)
   .setTimestamp()
   return message.channel.send(embed);
-  // Now lets call the command / test the command
 }
