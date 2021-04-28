@@ -7,7 +7,7 @@ Please don't just copy paste the code, but you need to learn how this code will 
 - [Youtube Channel](https://www.youtube.com/channel/UCS1P0f3H20_CKxGVvACFWBg)
 - [Discord Server](https://discord.gg/8rUvTYhFqK)
 - Discord: [SadesXD#3971](https://discord.gg/8rUvTYhFqK)
-- Support Us (Saweria): [Support Us](https://saweria.co/sadesxd)
+- Support Us (Saweria): [Support Us](https://saweria.co/sadesxdgt)
 
 ## 📎 Usage
 - Import this github into your project, or you can download this project
